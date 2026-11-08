@@ -28,22 +28,23 @@ A Python command-line application that tracks product prices and sends email not
 
 
 PriceWatch/
-├── data/
-│   └── products.json
+│
+├── .vscode/
+│
 ├── tests/
 │   ├── test_email_notifier.py
 │   ├── test_price_checker.py
 │   ├── test_price_scraper.py
 │   └── test_product_manager.py
-├── main.py
-├── product_manager.py
-├── price_scraper.py
-├── price_checker.py
-├── email_notifier.py
-├── requirements.txt
-├── .env
+│
 ├── .gitignore
-└── README.md
+├── README.md
+├── email_notifier.py
+├── main.py
+├── price_checker.py
+├── price_scraper.py
+├── product_manager.py
+└── requirements.txt
 
 
 ## Installation
