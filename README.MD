@@ -51,7 +51,7 @@ PriceWatch/
 1. Clone the repository:
 
 
-git clone 
+git clone https://github.com/bruke3/PriceWatch.git
 
 
 2. Navigate into the project directory:
